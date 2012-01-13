@@ -1,3 +1,5 @@
+/* This code contains the O(n) solution for finding the max sum in any subarray */
+
 #include <stdio.h>
 #include <stdlib.h>
 #define maxmac(a,b) ((a>b)?(a):(b))
