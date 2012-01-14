@@ -13,6 +13,7 @@ LIST * create_node(int num)
 	LIST * node=(LIST *)malloc(sizeof(LIST));
 	node->data=num;
 	node->next=NULL;
+	return node;
 }
 void add(LIST *l,int num)
 {
