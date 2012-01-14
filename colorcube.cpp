@@ -3,7 +3,7 @@
  * Given a string of colors right a function which returns a result "success" if all sides of
  * the cube can be painted such that no two adjacent sides have the same color otherwise false
  * 
- * During the interview a proposed a long solution using graph theory with O(n2) and panicked during coding.
+ * During the interview I proposed a long solution using graph theory with O(n2) and panicked during coding.
  * But a good night sleep worked and I woke up with a new O(n) solution.
  * If you find a better solution write back to me at mayank.gupta22@ymail.com
  */
